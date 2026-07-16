@@ -74,7 +74,6 @@ export default function Home() {
 
       <section className="media section" id="gallery">
         <div><p className="eyebrow muted">Моменты поездок</p><h2>Фотографии</h2><div className="gallery">{gallery.map(([title, src]) => <img src={src} alt={title} key={title}/>)}</div></div>
-        <div id="program"><p className="eyebrow muted">Почувствуйте атмосферу</p><h2>Смотрите видео</h2><div className="video-card"><img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1500&q=85" alt="Река среди лесов"/><button aria-label="Воспроизвести видео">▶</button><span>01:15 · край, который хочется услышать</span></div></div>
       </section>
 
       <section className="testimonial section" id="reviews"><blockquote>«Уехали на два дня, а ощущение — будто прожили маленькую жизнь. Никакой суеты, много настоящих разговоров и невероятная природа».</blockquote><p>— Марина, участница экспедиции</p></section>
