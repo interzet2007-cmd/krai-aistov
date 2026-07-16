@@ -4,7 +4,7 @@ import { useState } from "react";
 
 const stops = [
   ["01", "Санкт-Петербург", "Сбор и выезд", "https://images.unsplash.com/photo-1556610961-2fecc5927173?auto=format&fit=crop&w=500&q=85"],
-  ["02", "Мемориал в Долине", "Память и тишина", "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=500&q=85"],
+  ["02", "Мемориал в Долине", "Память и тишина", "/krai-aistov/route-memorial.jpg"],
   ["03", "Акваферма", "Завтрак и знакомство", "https://images.unsplash.com/photo-1544550285-f813152fb2fd?auto=format&fit=crop&w=500&q=85"],
   ["04", "Сланцы", "Музей и история города", "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=500&q=85"],
   ["05", "Доложская пещера", "Подземный мир", "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=500&q=85"],
