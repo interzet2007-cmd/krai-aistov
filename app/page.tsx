@@ -9,7 +9,7 @@ const stops = [
   ["04", "Сланцы", "Музей и история города", "/krai-aistov/route-slantsy-museum.jpg"],
   ["05", "Доложская пещера", "Подземный мир", "/krai-aistov/route-cave.jpg"],
   ["06", "Зажупанье", "Живописные виды", "/krai-aistov/route-zazhupanye.jpg"],
-  ["07", "Кошелевичи", "Забытые деревни", "https://images.unsplash.com/photo-1449158743715-0a90ebb6d2d8?auto=format&fit=crop&w=500&q=85"],
+  ["07", "Усадьба Кошелевичи", "Забытые деревни", "/krai-aistov/route-koshelevichi.jpg"],
   ["08", "Коленец", "Ужин у печи и отдых", "https://images.unsplash.com/photo-1501183638710-841dd1904471?auto=format&fit=crop&w=500&q=85"],
 ];
 
