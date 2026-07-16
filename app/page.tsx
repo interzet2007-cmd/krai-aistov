@@ -64,7 +64,7 @@ export default function Home() {
 
       <section className="about section" id="about">
         <div className="about-copy"><p className="eyebrow muted">Не экскурсия, а встреча</p><h2>Мы не возим туристов.<br/>Мы показываем настоящую Ленинградскую область.</h2><p>Здесь нет толп и автобусных экскурсий. Только живые истории, атмосферные места и люди, которые любят свой край. Путешествие, которое наполнит вас впечатлениями и перезагрузит на все сто.</p><a href="#program" className="text-link">Узнать больше о программе →</a></div>
-        <figure className="about-photo"><img src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=1400&q=85" alt="Небольшая группа путешественников"/><figcaption>Камерная группа и тёплые встречи по пути</figcaption></figure>
+        <figure className="about-photo"><img src="/krai-aistov/about-group.jpg" alt="Участники путешествия у деревянного дома"/><figcaption>Камерная группа и тёплые встречи по пути</figcaption></figure>
       </section>
 
       <section className="route section" id="route">
