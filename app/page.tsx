@@ -52,9 +52,6 @@ export default function Home() {
           <div className="facts"><span>▣ <b>30–31 июля</b></span><span>♧ <b>до 8 человек</b></span><span>⌖ <b>Сланцевский район</b></span></div>
           <div className="hero-actions"><button className="button" onClick={goToBooking}>Забронировать место</button><a className="button secondary" href="#route">Смотреть маршрут ↓</a></div>
         </div>
-        <div className="hero-art" aria-label="Аисты над северным пейзажем">
-          <div className="sun"/><div className="bird bird-one">♧</div><div className="bird bird-two">♧</div><div className="bird bird-three">♧</div><div className="nest"/>
-        </div>
       </section>
 
       <section className="benefits" id="included">
@@ -95,4 +92,3 @@ export default function Home() {
     </main>
   );
 }
-
