@@ -6,7 +6,7 @@ const stops = [
   ["01", "Санкт-Петербург", "Сбор и выезд", "https://images.unsplash.com/photo-1556610961-2fecc5927173?auto=format&fit=crop&w=500&q=85"],
   ["02", "Мемориал в Долине", "Память и тишина", "/krai-aistov/route-memorial.jpg"],
   ["03", "Акваферма", "Завтрак и знакомство", "/krai-aistov/route-aquafarm.jpg"],
-  ["04", "Сланцы", "Музей и история города", "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?auto=format&fit=crop&w=500&q=85"],
+  ["04", "Сланцы", "Музей и история города", "/krai-aistov/route-slantsy-museum.jpg"],
   ["05", "Доложская пещера", "Подземный мир", "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=500&q=85"],
   ["06", "Заручье", "Живописные виды", "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=500&q=85"],
   ["07", "Кошелевичи", "Забытые деревни", "https://images.unsplash.com/photo-1449158743715-0a90ebb6d2d8?auto=format&fit=crop&w=500&q=85"],
